@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Projects from Nanodegree course of Udacity
+# Supervised learning 
+Project: Finding Donors for CharityML
